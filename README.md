@@ -30,7 +30,7 @@ print(U)
 ~~~
 
 ## Output:
-![lu decomposition](LU.png)
+![lu](LU.png)
 
 
 ## Result:
@@ -68,7 +68,7 @@ x=lu_solve((lu,pivot),B)
 print(x)
 ~~~
 ## Output:
-![lu decomposition](LU2.png)
+![lu](LU2.png)
 
 
 ## Result:
