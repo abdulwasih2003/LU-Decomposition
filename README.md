@@ -30,7 +30,7 @@ print(U)
 ~~~
 
 ## Output:
-![lu](LU.png)
+![lu](img.png)
 
 
 ## Result:
@@ -68,7 +68,7 @@ x=lu_solve((lu,pivot),B)
 print(x)
 ~~~
 ## Output:
-![lu](LU2.png)
+![lu](img1.png)
 
 
 ## Result:
