@@ -45,7 +45,7 @@ To write a program to find a solution of a matrix using LU Decomposition.
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
-## Algorithm
+## Algorithm:
 1. Import numpy as np.
 2. Get the matrix values from the user as input.
 3. Use linalg functions for calculation.
